@@ -172,7 +172,6 @@ pre {
 pre code {
   white-space: pre; /* Override Bootstrap to preserve line breaks in code. */
   overflow-x: auto;
-  background-color: inherit
 }
 
 hr {
@@ -602,10 +601,10 @@ a[data-fancybox] img {
 }
 
 #profile .portrait {
-  width: 340px;
-  height: 230px;
+  width: 200px;
+  height: 200px;
   margin: 0 auto;
-  border-radius: 20%;
+  border-radius: 50%;
   object-fit: cover;
 }
 
